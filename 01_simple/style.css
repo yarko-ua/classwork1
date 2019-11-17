@@ -1,0 +1,38 @@
+p {
+    font-size: 18px;
+}
+
+main {
+    width: 780px;
+    margin: auto;
+}
+
+footer {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.p1 a{
+    font-style: italic;
+    font-weight: bolder;
+}
+h1 {
+    background-color: #a52a2a;
+    color: white;
+    text-align: center;
+}
+
+
+a {
+    color:blue;
+    text-decoration: none;
+}
+.img table {
+    margin: 0 auto;
+    border-spacing: 4px ;
+    
+}
+td {
+    border: 3px dashed black;
+}
